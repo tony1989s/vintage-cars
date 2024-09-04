@@ -1,0 +1,68 @@
+body {
+    text-align: center;
+    font-family: Verdana;
+    background-color: bisque;
+}
+
+div {
+    margin-top: 10px;
+}
+
+h1 {
+    color: darkslategray;
+}
+
+a {
+    margin: 0 5px;
+    font-weight: bold;
+    text-decoration: none;
+    color: darkslateblue;
+}
+
+ul {
+    list-style: none;
+    margin-left: -30px;
+}
+
+h3 {
+    margin-top: 40px;
+    color: darkslategray;
+}
+
+li {
+    padding: 5px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+input {
+    text-align: center;
+    margin: 15px;
+    display: inline;
+}
+
+label {
+    display: inline;
+}
+
+input[type="checkbox"] {
+    margin-right: 0;
+}
+
+button {
+    margin-left: 50px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: darkslategray;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+button:hover {
+    background-color: darkgray;
+    color: #000000;
+}
